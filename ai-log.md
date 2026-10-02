@@ -13,7 +13,7 @@ Date: October 1, 2026
 Assistant: Claude.ai
 Purpose: Improve the clarity of commit messages in my existing repo history
 Prompt or summary: Shared a screenshot of my commit history (README.md, workflow-notes.md, and ai-log.md changes) and asked for a proposed improvement to the commit messages.
-Useful suggestion: Recommended following the <type>: <summary> convention (for example: 'docs: add setup instructions to README.md' ) instead of GitHub's auto messages like "Update README.md," since descriptive messages explain what changed and why. Also flagged that my "Create ai-log.md and Edit ai-log.md with AI interaction #1" commit bundled two separate actions into one message and suggested splitting it into two distinct commits.
+Useful suggestion: Recommended following the type: <summary> convention (for example: 'docs: add setup instructions to README.md' ) instead of GitHub's auto messages like "Update README.md," since descriptive messages explain what changed and why. Also flagged that my "Create ai-log.md and Edit ai-log.md with AI interaction #1" commit bundled two separate actions into one message and suggested splitting it into two distinct commits.
 Decision: accepted
 Reason: The suggested format made my commit history easier to scan and understand at a glance, and splitting bundled commits follows the best practice of one commit representing one logical change.
 Related GitHub URL: https://github.com/pintsizedcoder/swe325_525-github-ai-practice/
