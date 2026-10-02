@@ -12,3 +12,6 @@ Name of branch: feature/github-ai-workflow
 https://github.com/pintsizedcoder/swe325_525-github-ai-practice/issues
 ## Pull Request URL
 https://github.com/pintsizedcoder/swe325_525-github-ai-practice/pulls
+## Short Explaination
+
+The issue defines the work and its acceptance criteria. The feature branch provides a separate place to make those changes, and commits record the progress. The pull request proposes merging the feature branch into the default branch. Review checks the proposed changes and identifies improvements, which can be addressed with additional commits before the pull request is merged.
