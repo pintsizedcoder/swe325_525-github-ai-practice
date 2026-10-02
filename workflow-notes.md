@@ -6,4 +6,9 @@ Name of branch: feature/github-ai-workflow
 - **Branch:** A separate line of development where changes can be made before merging them into the default branch.
 - **Commit:** A saved snapshot of changes with a message explaining what changed.
 - **Pull request:** Proposes merging changes from one branch into another so they can be reviewed and discussed.
-- **Default branch:** The repository's primary branch, usually named main. 
+- **Default branch:** The repository's primary branch, usually named main.
+-
+## Issues URL
+https://github.com/pintsizedcoder/swe325_525-github-ai-practice/issues
+## Pull Request URL
+https://github.com/pintsizedcoder/swe325_525-github-ai-practice/pulls
