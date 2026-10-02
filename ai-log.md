@@ -27,3 +27,25 @@ Useful suggestion: Claude suggested including a change summary, related issues, 
 Decision: revised
 Reason: I kept the relevant suggestions and added the assignment-specific requirements. I omitted testing, linting, and deployment items because they do not apply to this Markdown documentation work.
 Related GitHub URL: https://github.com/pintsizedcoder/swe325_525-github-ai-practice/
+
+## Reflection
+
+1. Which GitHub action or object was most useful to you, and why?
+
+The pull request was most useful because it brought my branch changes together in one place where I could review the files and commits before merging them into the default branch.
+
+2. Which AI suggestion did you accept, and what made it useful?
+
+I accepted Claude. ai suggestion to organize my issue into a goal, scope, acceptance criteria, and task checklist. This helped me distinguish the steps I needed to take from the conditions that would show the work was complete.
+
+3. Which AI suggestion did you revise or reject, and why?
+
+I revised Claude’s pull-request checklist by adding the assignment-specific requirements, including the commit list, AI-assistance summary, and acceptance checklist. I left out testing, linting, and deployment items because they did not apply to this documentation-only repository.
+
+4. What did you verify yourself instead of trusting the AI?
+
+I checked my GitHub commit history to confirm the actual commit messages rather than relying on AI-generated examples. I also read the assignment requirements and reviewed my Markdown files in the pull request.
+
+5. What would you change in your GitHub workflow next time?
+
+Next time, I would use more descriptive commit messages instead of messages such as “Update README.md.” I would also record GitHub links and AI interactions as I work so that the final documentation is easier to complete.
